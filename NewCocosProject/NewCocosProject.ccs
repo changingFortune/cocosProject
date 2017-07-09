@@ -1,0 +1,84 @@
+<Solution>
+  <PropertyGroup Name="NewCocosProject" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="chatAtt">
+          <PlistImageFolder Image="bomb2.png" PListFile="bomb2.plist" Name=".bomb2_PList.Dir">
+            <PlistImageFile Name="zhadan-bomb_10.png" Key="zhadan-bomb_10.png" />
+            <PlistImageFile Name="zhadan-bomb_9.png" Key="zhadan-bomb_9.png" />
+            <PlistImageFile Name="zhadan-bomb_8.png" Key="zhadan-bomb_8.png" />
+            <PlistImageFile Name="zhadan-bomb_7.png" Key="zhadan-bomb_7.png" />
+            <PlistImageFile Name="zhadan-bomb_6.png" Key="zhadan-bomb_6.png" />
+            <PlistImageFile Name="zhadan-bomb_5.png" Key="zhadan-bomb_5.png" />
+            <PlistImageFile Name="zhadan-bomb_4.png" Key="zhadan-bomb_4.png" />
+            <PlistImageFile Name="zhadan-bomb_3.png" Key="zhadan-bomb_3.png" />
+            <PlistImageFile Name="zhadan-bomb_2.png" Key="zhadan-bomb_2.png" />
+            <PlistImageFile Name="zhadan-bomb_1.png" Key="zhadan-bomb_1.png" />
+            <PlistImageFile Name="zhadan-yanzhu.png" Key="zhadan-yanzhu.png" />
+            <PlistImageFile Name="zhadan-yanbai.png" Key="zhadan-yanbai.png" />
+            <PlistImageFile Name="zhadan-heiyan2.png" Key="zhadan-heiyan2.png" />
+            <PlistImageFile Name="zhadan-huohua4.png" Key="zhadan-huohua4.png" />
+            <PlistImageFile Name="zhadan-huohua3.png" Key="zhadan-huohua3.png" />
+            <PlistImageFile Name="zhadan-huohua2.png" Key="zhadan-huohua2.png" />
+            <PlistImageFile Name="zhadan-huohua1.png" Key="zhadan-huohua1.png" />
+            <PlistImageFile Name="zhadan-daohuoxian13.png" Key="zhadan-daohuoxian13.png" />
+            <PlistImageFile Name="zhadan-daohuoxian12.png" Key="zhadan-daohuoxian12.png" />
+            <PlistImageFile Name="zhadan-daohuoxian11.png" Key="zhadan-daohuoxian11.png" />
+            <PlistImageFile Name="zhadan-daohuoxian10.png" Key="zhadan-daohuoxian10.png" />
+            <PlistImageFile Name="zhadan-daohuoxian9.png" Key="zhadan-daohuoxian9.png" />
+            <PlistImageFile Name="zhadan-daohuoxian8.png" Key="zhadan-daohuoxian8.png" />
+            <PlistImageFile Name="zhadan-daohuoxian7.png" Key="zhadan-daohuoxian7.png" />
+            <PlistImageFile Name="zhadan-daohuoxian6.png" Key="zhadan-daohuoxian6.png" />
+            <PlistImageFile Name="zhadan-daohuoxian5.png" Key="zhadan-daohuoxian5.png" />
+            <PlistImageFile Name="zhadan-daohuoxian4.png" Key="zhadan-daohuoxian4.png" />
+            <PlistImageFile Name="zhadan-daohuoxian 4.png" Key="zhadan-daohuoxian 4.png" />
+            <PlistImageFile Name="zhadan-daohuoxian 2.png" Key="zhadan-daohuoxian 2.png" />
+            <PlistImageFile Name="zhadan-daohuoxian.png" Key="zhadan-daohuoxian.png" />
+            <PlistImageFile Name="zhadan-zhaodan1.png" Key="zhadan-zhaodan1.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="rose.png" PListFile="rose.plist" Name=".rose_PList.Dir">
+            <PlistImageFile Name="flash-sprite 3.png" Key="flash-sprite 3.png" />
+            <PlistImageFile Name="flash- 6.png" Key="flash- 6.png" />
+            <PlistImageFile Name="flash-20.png" Key="flash-20.png" />
+            <PlistImageFile Name="flash-flower7.png" Key="flash-flower7.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="slipper.png" PListFile="slipper.plist" Name=".slipper_PList.Dir">
+            <PlistImageFile Name="xiezi-glow8.png" Key="xiezi-glow8.png" />
+            <PlistImageFile Name="xiezi-glow7.png" Key="xiezi-glow7.png" />
+            <PlistImageFile Name="xiezi-glow6.png" Key="xiezi-glow6.png" />
+            <PlistImageFile Name="xiezi-glow5.png" Key="xiezi-glow5.png" />
+            <PlistImageFile Name="xiezi-glow3.png" Key="xiezi-glow3.png" />
+            <PlistImageFile Name="xiezi-glow2.png" Key="xiezi-glow2.png" />
+            <PlistImageFile Name="xiezi-glow1.png" Key="xiezi-glow1.png" />
+            <PlistImageFile Name="xiezi-ying4.png" Key="xiezi-ying4.png" />
+            <PlistImageFile Name="xiezi-ying2.png" Key="xiezi-ying2.png" />
+            <PlistImageFile Name="xiezi-ying1.png" Key="xiezi-ying1.png" />
+            <PlistImageFile Name="xiezi-yan6.png" Key="xiezi-yan6.png" />
+            <PlistImageFile Name="xiezi-yan5.png" Key="xiezi-yan5.png" />
+            <PlistImageFile Name="xiezi-yan4.png" Key="xiezi-yan4.png" />
+            <PlistImageFile Name="xiezi-yan3.png" Key="xiezi-yan3.png" />
+            <PlistImageFile Name="xiezi-yan2.png" Key="xiezi-yan2.png" />
+            <PlistImageFile Name="xiezi-yan1.png" Key="xiezi-yan1.png" />
+            <PlistImageFile Name="xiezi-jiaoyin.png" Key="xiezi-jiaoyin.png" />
+            <PlistImageFile Name="xiezi-s1.png" Key="xiezi-s1.png" />
+          </PlistImageFolder>
+          <PlistImageFolder Image="thumb1.png" PListFile="thumb1.plist" Name=".thumb1_PList.Dir">
+            <PlistImageFile Name="thumb-glow5.png" Key="thumb-glow5.png" />
+            <PlistImageFile Name="thumb-sprite 4.png" Key="thumb-sprite 4.png" />
+            <PlistImageFile Name="thumb-glow9.png" Key="thumb-glow9.png" />
+            <PlistImageFile Name="thumb-glow8.png" Key="thumb-glow8.png" />
+            <PlistImageFile Name="thumb-glow6.png" Key="thumb-glow6.png" />
+            <PlistImageFile Name="thumb-12.png" Key="thumb-12.png" />
+          </PlistImageFolder>
+          <File Name="bomb2.xml" />
+          <File Name="rose.xml" />
+          <File Name="slipper.xml" />
+          <File Name="thumb1.xml" />
+        </Folder>
+        <Image Name="HelloWorld.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
